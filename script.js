@@ -5,21 +5,21 @@
 
 const members = [
   {
-    name: "Nama Anggota 1",
+    name: "I Gede Abi Bhakti P.",
     role: "Frontend Developer",
     image: "https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg",
     description: "Saya fokus membangun tampilan web yang rapi, responsif, dan mudah digunakan melalui struktur HTML dan desain antarmuka yang konsisten.",
     skills: ["HTML", "CSS", "JavaScript"]
   },
   {
-    name: "Nama Anggota 2",
+    name: "Christian Immanuel V.",
     role: "UI/UX Designer",
     image: "https://i.pravatar.cc/300?img=47",
     description: "Saya merancang pengalaman pengguna yang sederhana, menarik, dan mudah dipahami dengan memperhatikan kebutuhan pengguna di setiap halaman.",
     skills: ["Figma", "Wireframing", "Prototyping"]
   },
   {
-    name: "Nama Anggota 3",
+    name: "I Wayan Putra Riana P.",
     role: "JavaScript Developer",
     image: "https://i.pravatar.cc/300?img=12",
     description: "Saya mengembangkan interaksi halaman yang dinamis dan memastikan setiap fitur berjalan lancar, cepat, serta nyaman digunakan.",
